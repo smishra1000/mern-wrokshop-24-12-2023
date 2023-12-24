@@ -52,3 +52,24 @@ Guest00@!
 
 
 https://github.com/smishra1000/mern-wrokshop-24-12-2023.git
+
+
+steps 
+1> npx create-react-app <app_name> 
+
+2> npm install -g create-react-app 
+    create-react-app app_name
+
+
+
+    full_satck
+    frontend 
+
+    backend
+        mkdir backend
+        npm init-->
+        enter
+        enter
+
+
+        till end
