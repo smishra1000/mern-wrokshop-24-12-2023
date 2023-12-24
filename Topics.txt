@@ -1,0 +1,50 @@
+What is MERN Stack?
+MERN Stack is a JavaScript Stack that is used for easier and faster deployment
+of full-stack web applications. MERN Stack comprises of 4 technologies 
+namely: MongoDB, Express, React and Node.js. It is designed to make the development process fast and easy using single langugae Javascript.
+ 
+
+MongoDB: Non Relational Database
+Express: Node.js web server
+React: JavaScript Frontend Framework
+Node: JavaScript Web Server
+
+Roadmap to become a MERN Stack Developer
+Step 1: Learn basics of HTML, CSS and JavaScript
+Step 2: Learn React which is a frontend library for building User Interfaces
+Step 3: Learn Node.js which is JavaScript runtime environment
+Step 4: Learn Express.js, a framework built upon Node.js to simplify the process of creating web application and API building
+Step 5: Learn MongoDB, a NoSQL database to store and retrieve data from database.
+
+Topics to be covered
+What is Web Development, what is MERN Stack?
+HTML
+Introduction to HTML
+HTML Elements, Attributes
+Display data in Tables
+Displaying data in List
+Creating Forms
+
+Intro Bootstrap
+
+JavaScript
+Introduction about JavaScript, DOM
+Function,Object,Class
+
+React JS Introduction
+What is React JS?
+Understanding the Terminology of React JS
+What is Single Page Application?
+Setting up the React JS Environment
+Creating the First Project in React JS
+What is Component?
+Creating the new Component(s)
+State, Props
+
+Node JS
+Introduction to Node JS
+What is Node JS?
+Express Setup
+HTTP Methods
+Simple Get contacts and Add Contacts uisng react, node, express, mongodb
+Guest00@!
